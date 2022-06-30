@@ -4,3 +4,12 @@
 body {
     background-color: wheat;
 }
+* {
+    font-family:'Gill Sans','Trebuchet MS', sans-serif;
+}
+.titles {
+    color: darkblue;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
